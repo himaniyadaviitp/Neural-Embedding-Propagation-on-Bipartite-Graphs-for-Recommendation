@@ -1,5 +1,5 @@
 # Neural-Embedding-Propagation-on-Bipartite-Graphs-for-Recommendation
-# Neural Embedding Propagation on Bipartite Graphs for Recommendation
+
 ### Implementation and Analysis of NGCF and LightGCN on Amazon-Book Dataset
 
 > B.Tech Project | Department of Computer Science and Engineering  
